@@ -1,16 +1,18 @@
+:root
+
 nav{
-    background-color: darkblue;
+    background-color: rgb(29, 29, 151);
     padding: 10px;
 }
 
 nav a{
-    color: white;
+    color: rgb(231, 229, 229);
     display: block;
     padding: 20px;
 }
 
 h1{
-    color: darkblue;
+    color: rgb(141, 82, 189);
 }
 
 img{
