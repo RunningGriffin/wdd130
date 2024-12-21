@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&family=Roboto+Condensed&display=swap');
+
 :root {
     /* change the values below to your colors from your palette */
     --primary-color: #bee9e8   ;
@@ -22,6 +23,18 @@
     --nav-hover-background-color: #bee9e8;
   }
 
+.roboto-condensed- {
+    font-family: "Roboto Condensed", serif;
+    font-optical-sizing: auto;
+    font-weight: "400";
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
 #content{
     max-width: 1600px;
     margin: 0 auto;
@@ -121,7 +134,6 @@ nav{
     justify-content: space-around;
 }
 
-    footer {
-        margin-top: 25px;
-    }
+footer {
+    margin-top: 25px;
 }
